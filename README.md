@@ -19,6 +19,7 @@ Model Training: Utilize clustering and cosine similarity techniques for answer a
 Evaluation: Evaluate the trained models using the testing dataset to assess accuracy and performance.
 Comparison: Compare the effectiveness of clustering and cosine similarity for answer and question prediction tasks.
 Conclusion: Draw conclusions based on the performance comparison and identify potential areas for improvement.
+
 Dependencies:
 
 Python 3.x
@@ -26,6 +27,8 @@ pandas
 scikit-learn
 numpy
 MathBERT embeddings (for mathematical solutions)
+
+
 Author: Okesh Reddy, Arella Mouhitha, Saranya
 
 Contact: bl.en.u4aie22044@bl.students.amrita.edu
