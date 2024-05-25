@@ -15,9 +15,13 @@ mathbert_embeddings.npy: Embeddings generated using MathBERT for mathematical so
 Methodology:
 
 Data Preparation: Preprocess the training data and key answers for model training.
+
 Model Training: Utilize clustering and cosine similarity techniques for answer and question prediction.
+
 Evaluation: Evaluate the trained models using the testing dataset to assess accuracy and performance.
+
 Comparison: Compare the effectiveness of clustering and cosine similarity for answer and question prediction tasks.
+
 Conclusion: Draw conclusions based on the performance comparison and identify potential areas for improvement.
 
 Dependencies:
