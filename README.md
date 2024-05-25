@@ -2,16 +2,14 @@ Project Title:Cluster Based Classification of Question Based Algebraic Solutions
 
 Description:
 
-This project focuses on predicting correct answers and questions using clustering and cosine similarity techniques. The dataset comprises 6 questions, each with 26 answers. The training dataset includes 126 answers for both latex and mathematical solutions, alongside corresponding key answers (keylatex and keymathematical). Additionally, there are 26 answers available for testing purposes. MathBERT embeddings are provided for mathematical solutions to enhance model performance.
+This project focuses on predicting correct answers and questions using clustering and cosine similarity techniques. The dataset comprises 6 questions, each with 26 answers. The training dataset includes 126 answers for both latex and mathematical solutions, alongside corresponding key answers (keylatex and keymathematical). Additionally, there are 26 answers available for testing purposes. MathBERT embeddings are provided for mathematical solutions to enhance model performance.matpix.ai is used for converting manual scripts to latex and algebraic solutions.
 
 Files Included:
 
-train_latex.csv: Training data containing latex solution answers.
-train_mathematical.csv: Training data containing mathematical solution answers.
-test.csv: Testing data for evaluation.
-keylatex.csv: Key answers for latex solutions.
-keymathematical.csv: Key answers for mathematical solutions.
-mathbert_embeddings.npy: Embeddings generated using MathBERT for mathematical solutions.
+training_mathbert3latexsolutions.xlsx: Training data containing latex solution answers.
+training_mathbert4mathematicalsolutions.xlsx:Training data containing mathematical solution answers.
+training_mathbert5testinglatexsolutions.xlsx: training_mathbert6testinglatexsolutions.xlsx: Testing data for evaluation of both latex and mathematical solutions.
+training_mathbert1keylatexsolutions.xlsx: Key answers for latex solutions.
 Methodology:
 
 Data Preparation: Preprocess the training data and key answers for model training.
