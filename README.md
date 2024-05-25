@@ -6,10 +6,11 @@ This project focuses on predicting correct answers and questions using clusterin
 
 Files Included:
 
-training_mathbert3latexsolutions.xlsx: Training data containing latex solution answers.
-training_mathbert4mathematicalsolutions.xlsx:Training data containing mathematical solution answers.
-training_mathbert5testinglatexsolutions.xlsx: training_mathbert6testinglatexsolutions.xlsx: Testing data for evaluation of both latex and mathematical solutions.
-training_mathbert1keylatexsolutions.xlsx: Key answers for latex solutions.
+training_mathbert3latexsolutions.xlsx:   Training data containing latex solution answers.
+training_mathbert4mathematicalsolutions.xlsx:   Training data containing mathematical solution answers.
+training_mathbert5testinglatexsolutions.xlsx, training_mathbert6testinglatexsolutions.xlsx: Testing data for evaluation of both latex and mathematical solutions.
+training_mathbert1keylatexsolutions.xlsx, training_mathbert2keymathematicalsoltions.xlsx:  Key answers for latex solutions and mathematical solutions respectively.
+
 Methodology:
 
 Data Preparation: Preprocess the training data and key answers for model training.
